@@ -1,11 +1,9 @@
-version: "3.7"
-
+version: '3'
 services:
-  pg:
-    image: bitnami/postgresql:latest
+  app:
+    build: .
     ports:
-      - "5454:5454"
-    environment:
-      - POSTGRES_USER=docker
-      - POSTGRES_PASSWORD=docker
-      - POSTGRES_DB=smart-pizza
+      - "4026:3000"
+    volumes:
+      - .:/app
+      - /app/node_modules
