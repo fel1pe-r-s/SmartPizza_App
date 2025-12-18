@@ -43,5 +43,18 @@
   },
   "prisma": {
     "seed": "npx tsx prisma/seed/seed.ts"
-  }
+  },
+  "description": "This is a Next.js project bootstrapped with `create-next-app`.",
+  "keywords": [
+    "css",
+    "date",
+    "docker",
+    "markdown",
+    "nextjs",
+    "node",
+    "prisma",
+    "react",
+    "tailwind",
+    "typescript"
+  ]
 }
