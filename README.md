@@ -1,4 +1,4 @@
-**Tags**: #CSS #Date-fns #Docker #Markdown #Nextjs #Node #Prisma #React #Tailwind #TypeScript #tailwind
+**Tags**: #CSS #Database #Date-fns #Docker #Markdown #Nextjs #Node #Prisma #React #Tailwind #TypeScript #tailwind
 
 #SmartPizza_App
 
